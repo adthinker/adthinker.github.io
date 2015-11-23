@@ -149,6 +149,7 @@ define([], function(){
 			combine();
 			bindDOM();
 			resetTags();
+			
 		}
 	}
 })
